@@ -2,6 +2,8 @@
 
 Quick start:
 
+Create a database in firestore and save the configs in `.env.exmaple`. Then rename the file to `.env`.
+
 ```
 $ npm install
 $ npm start
